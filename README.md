@@ -1,52 +1,59 @@
-<h1 align="center"> DevLinks </h1>
+# 🚀 Projeto de Links - Rocketseat Discover
 
-<p align="center">
-Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
-<a href="https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito">Estude esse projeto em formato de vídeo clicando aqui.</a>
-</p>
+Este projeto faz parte da jornada de aprendizado proposta pela [Rocketseat](https://www.rocketseat.com.br/), dentro do programa **Discover**. O objetivo é aplicar os conhecimentos adquiridos sobre HTML, CSS e JavaScript na construção de uma página de links personalizada.
 
-<p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
-</p>
+## 📚 Sobre o Projeto
 
-<p align="center">
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
-</p>
+Nesta jornada, somos introduzidos ao universo da tecnologia e desenvolvimento de software. O projeto de links é uma das primeiras aplicações práticas, onde colocamos em ação os fundamentos da web:
 
-<br>
+- Estruturação com **HTML**
+- Estilização com **CSS**
+- Interatividade com **JavaScript**
 
-<p align="center">
-  <img alt="projeto DevLinks" src=".github/preview.jpg" width="100%">
-</p>
+Além disso, aprendemos a utilizar ferramentas como **Git** e **GitHub** para versionamento e colaboração.
 
-## 🚀 Tecnologias
+## 🧠 Conceitos Abordados
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+- O papel do desenvolvedor de software
+- Funcionamento da internet
+- Diferenças entre **Frontend** e **Backend**
+- Blocos de construção da web: HTML e CSS
+- Introdução ao JavaScript
+- Controle de versão com Git e GitHub
+- Mentalidade de aprendizado contínuo
 
-- HTML e CSS
-- JavaScript
-- Git e Github
-- Figma
+## 💻 Tecnologias Utilizadas
 
-## 💻 Projeto
+- HTML5
+- CSS3
+- JavaScript (básico)
+- Git & GitHub
 
-O DevLinks é um agregador de links para usar como cartão de visitas online.
+## 📁 Estrutura do Projeto
+```
+DEVLINKS/
+├── .github/           # Arquivos relacionados ao GitHub (ex: preview de imagem)
+│   └── preview.jpg
+├── .vscode/           # Configurações do VS Code para o projeto
+│   ├── extensions.json
+│   └── settings.json
+├── assets/            # Pasta para imagens, ícones ou fontes
+├── index.html         # Página principal com os links
+├── style.css          # Estilos visuais da página
+├── script.js          # Funcionalidades interativas (se houver)
+└── README.md          # Documentação do projeto
 
-- [Acesse o projeto finalizado, online](https://maykbrito.github.io/devlinks)
+```
 
-- [Assistir aulas](https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito)
+## 🌐 Deploy
 
-## 🔖 Layout
+Você pode visualizar o projeto online através do GitHub Pages:  
+🔗 [SeuLinkAqui](https://seuusuario.github.io/projeto-de-links)
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1187422022288947321). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+## 🙌 Créditos
 
-## :memo: Licença
-
-Esse projeto está sob a licença MIT.
+Projeto desenvolvido como parte do curso **Discover** da Rocketseat.
 
 ---
 
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+
