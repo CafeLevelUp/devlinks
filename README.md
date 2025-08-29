@@ -48,7 +48,7 @@ DEVLINKS/
 ## 🌐 Deploy
 
 Você pode visualizar o projeto online através do GitHub Pages:  
-🔗 [SeuLinkAqui](https://seuusuario.github.io/projeto-de-links)
+🔗 [Clique Aqui](https://cafelevelup.github.io/devlinks/)
 
 ## 🙌 Créditos
 
